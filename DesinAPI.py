@@ -139,10 +139,7 @@ class DesinAPI :
 
         self._wait()
 
-     # 지금 해야할건, 기간으로 데이터를 가져오는 것.
-    # 기간으로 분봉데이터 가져오기.
-    # - 하지만 기간으로는 주,월,분,틱 은 안된다고 하는데 , 해봐야함.
-    # 분은 가능함!
+
 
     def GetPeriodMinute(self,code,  lastDate, recentDate):
         columns = ['date', 'time', 'open', 'high', 'low', 'close', 'volume']
