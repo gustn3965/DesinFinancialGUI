@@ -18,8 +18,8 @@
 또한 특정종목이나, 모든 종목을 한번에 데이터를 받아와서 저장할 수 있습니다.
 
 기존에 있던 데이터에 덮어쓸 수 있습니다. 
-![image1](./image/image1.gif)
-![image2](./image/image2.gif)
+![image1](./image/image1.PNG)
+![image2](./image/image2.PNG)
 
 **분봉데이터는 최대 2년전까지 데이터를 받아올 수 있으며, 개수로 입력할 때는 대략 20만이 최대입니다.
 
