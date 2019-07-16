@@ -38,4 +38,4 @@
 
 ![sample3](./image/sample3.gif)
 
-![sample4](./image/sample4.gif)
+![sampl4](./image/sampl4.gif)
