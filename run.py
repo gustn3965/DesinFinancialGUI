@@ -488,7 +488,6 @@ class MyWindow(QMainWindow, form_class) :
             for row,val in enumerate(v) :
                 self.tableWidget_2.setItem(row,col,QTableWidgetItem(str(val)))
 
-
     def radioButtonClicked(self):
         self.mT = "m"
         if self.radioButton.isChecked():
@@ -500,19 +499,33 @@ class MyWindow(QMainWindow, form_class) :
             print("틱선택됨")
             self.mT = "T"
 
-    # 새로운 창
     def btn_clicked4(self):
+
         dlg = AllDialog()
+
         dlg.getConn(self.conn)
         dlg.exec_()
 
 
+
     def btn_clicked6(self):
+
         addNewFileOnOldFile(self.conn.df, self.codeName)
 
 
 
+#--------------------------
+
+
+
+
+
+
+
+
 def addNewFileOnOldFile(newFile,codeName,filePath):
+
+
 
     new_df = newFile
 
@@ -524,7 +537,7 @@ def addNewFileOnOldFile(newFile,codeName,filePath):
 
     print(old_df)
     print('완료')
-    old_first = old_df.iloc[1,][0]
+    old_first = old_df.iloc[0,][0]
 
     old_index = new_df[new_df['date'] == old_first].index.values[0]
     new_df2 = new_df.iloc[:old_index, ]
