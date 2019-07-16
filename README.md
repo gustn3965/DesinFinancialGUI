@@ -43,3 +43,11 @@
 ![sample3](./image/sample3.gif)
 
 ![sampl4](./image/sampl4.gif)
+
+
+
+
+
+분봉데이터를 계속해서 가져오기 위해 어려움이 있었는데,
+
+https://github.com/gyusu/Creon-Datareader 참고하였습니다. 많은 도움 되었습니다. 감사합니다. 
