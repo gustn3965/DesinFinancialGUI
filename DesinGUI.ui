@@ -9,8 +9,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1179</width>
-    <height>755</height>
+    <width>1052</width>
+    <height>758</height>
    </rect>
   </property>
   <property name="minimumSize">
@@ -34,8 +34,29 @@
   <widget class="QWidget" name="centralwidget">
    <layout class="QGridLayout" name="gridLayout_3" columnstretch="1,3" columnminimumwidth="0,0">
     <item row="0" column="1">
-     <layout class="QGridLayout" name="gridLayout" columnstretch="0,0,0,0">
-      <item row="0" column="2">
+     <layout class="QGridLayout" name="gridLayout" columnstretch="0,0,0,0,0,0">
+      <item row="2" column="1" rowspan="3">
+       <widget class="QPushButton" name="pushButton_4">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>80</height>
+         </size>
+        </property>
+        <property name="text">
+         <string>모든 종목 
+가져오기</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="2">
+       <widget class="QLabel" name="label_4">
+        <property name="text">
+         <string>TextLabel</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="3">
        <widget class="QRadioButton" name="radioButton">
         <property name="text">
          <string>분봉(1분)</string>
@@ -45,15 +66,14 @@
         </property>
        </widget>
       </item>
-      <item row="1" column="2">
-       <widget class="QRadioButton" name="radioButton_2">
-        <property name="text">
-         <string>틱</string>
-        </property>
-       </widget>
-      </item>
-      <item row="0" column="3" rowspan="2">
+      <item row="0" column="4" rowspan="2">
        <widget class="QPushButton" name="pushButton">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>50</height>
+         </size>
+        </property>
         <property name="maximumSize">
          <size>
           <width>40</width>
@@ -65,14 +85,14 @@
         </property>
        </widget>
       </item>
-      <item row="4" column="0">
+      <item row="6" column="1">
        <widget class="QProgressBar" name="progressBar">
         <property name="value">
          <number>24</number>
         </property>
        </widget>
       </item>
-      <item row="1" column="0">
+      <item row="1" column="1">
        <widget class="QLabel" name="label_2">
         <property name="minimumSize">
          <size>
@@ -94,7 +114,14 @@
         </property>
        </widget>
       </item>
-      <item row="0" column="1">
+      <item row="1" column="3">
+       <widget class="QRadioButton" name="radioButton_2">
+        <property name="text">
+         <string>틱</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="2">
        <widget class="QLineEdit" name="lineEdit">
         <property name="minimumSize">
          <size>
@@ -110,14 +137,17 @@
         </property>
        </widget>
       </item>
-      <item row="4" column="1" colspan="3">
-       <widget class="QPushButton" name="pushButton_2">
-        <property name="text">
-         <string>저장하기</string>
+      <item row="1" column="2">
+       <widget class="QLineEdit" name="lineEdit_3">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>0</height>
+         </size>
         </property>
        </widget>
       </item>
-      <item row="0" column="0">
+      <item row="0" column="1">
        <widget class="QLabel" name="label">
         <property name="minimumSize">
          <size>
@@ -139,17 +169,20 @@
         </property>
        </widget>
       </item>
-      <item row="1" column="1">
-       <widget class="QLineEdit" name="lineEdit_3">
-        <property name="minimumSize">
+      <item row="0" column="5">
+       <spacer name="horizontalSpacer">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
          <size>
-          <width>100</width>
-          <height>0</height>
+          <width>40</width>
+          <height>20</height>
          </size>
         </property>
-       </widget>
+       </spacer>
       </item>
-      <item row="3" column="0" colspan="4">
+      <item row="5" column="0" colspan="6">
        <widget class="QTableWidget" name="tableWidget">
         <property name="sizeIncrement">
          <size>
@@ -201,31 +234,17 @@
         <column/>
        </widget>
       </item>
-      <item row="2" column="3">
-       <widget class="QPushButton" name="pushButton_5">
-        <property name="text">
-         <string>코스닥</string>
+      <item row="3" column="4" rowspan="2">
+       <widget class="QPushButton" name="pushButton_2">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>50</height>
+         </size>
         </property>
-       </widget>
-      </item>
-      <item row="2" column="2">
-       <widget class="QPushButton" name="pushButton_4">
         <property name="text">
-         <string>코스피 </string>
-        </property>
-       </widget>
-      </item>
-      <item row="2" column="1">
-       <widget class="QPushButton" name="pushButton_6">
-        <property name="text">
-         <string>덮어씌우기</string>
-        </property>
-       </widget>
-      </item>
-      <item row="2" column="0">
-       <widget class="QLabel" name="label_4">
-        <property name="text">
-         <string>TextLabel</string>
+         <string>csv파일 
+저장하기</string>
         </property>
        </widget>
       </item>
@@ -235,6 +254,12 @@
      <layout class="QGridLayout" name="gridLayout_2">
       <item row="1" column="0" colspan="3">
        <widget class="QTableWidget" name="tableWidget_2">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>0</height>
+         </size>
+        </property>
         <property name="maximumSize">
          <size>
           <width>230</width>
@@ -331,7 +356,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1179</width>
+     <width>1052</width>
      <height>21</height>
     </rect>
    </property>

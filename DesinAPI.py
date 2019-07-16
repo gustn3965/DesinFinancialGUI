@@ -31,6 +31,7 @@ class DesinAPI :
             self.result = "연결되지 않았습니다."
 
 
+
     # Get StockCode about enterprise I want
     def GetStockCode(self,name) :
         instCpStockCode = win32com.client.Dispatch("CpUtil.CpStockCode")
@@ -129,15 +130,67 @@ class DesinAPI :
         numData = instStockChart.GetHeaderValue(3)
 
         numField = instStockChart.GetHeaderValue(1)
+
+        print("머지이이이ㅣㅇ/")
         for i in range(0, numData) :
             for j in range(0,numField) :
                 print(instStockChart.GetDataValue(j, i), end=" ")
             print()
-                # stockDate = instStockChart.GetDataValue()
-                # stockData = instStockChart.GetDataValue(1,i)
-                # print(str(stockDate) + " : " + str(stockData))
+
         self._wait()
 
+     # 지금 해야할건, 기간으로 데이터를 가져오는 것.
+    # 기간으로 분봉데이터 가져오기.
+    # - 하지만 기간으로는 주,월,분,틱 은 안된다고 하는데 , 해봐야함.
+    # 분은 가능함!
+
+    def GetPeriodMinute(self,code,  lastDate, recentDate):
+        columns = ['date', 'time', 'open', 'high', 'low', 'close', 'volume']
+        self.dict = {'date': [], 'time': [], 'open': [], 'high': [], 'low': [], 'close': [], 'volume': []}
+
+        # 4 - 개수, 5 - 데이터타입, 6 - 일,주,월,분, 9 - 1수정주가
+        instStockChart = win32com.client.Dispatch("CpSysDib.StockChart")
+        instStockChart.SetInputValue(0, code)
+        instStockChart.SetInputValue(1, ord('1'))
+        instStockChart.SetInputValue(2, recentDate)
+        instStockChart.SetInputValue(3, lastDate)
+
+        instStockChart.SetInputValue(5, [0, 1, 2, 3, 4, 5, 8])
+        instStockChart.SetInputValue(6, ord('m'))
+        instStockChart.SetInputValue(9, ord('1'))
+
+        duplicatedCount = 0
+
+
+        while True :
+            instStockChart.BlockRequest()
+            numData = instStockChart.GetHeaderValue(3)
+
+            if numData != 2856 :
+                duplicatedCount += 1
+            if duplicatedCount > 1 :
+                break
+            numField = instStockChart.GetHeaderValue(1)
+            for i in range(0, numData):
+                for j in range(0, numField):
+                    # print(instStockChart.GetDataValue(j, i), end=" ")
+                    self.dict[columns[j]].append(instStockChart.GetDataValue(j, i))
+                print()
+
+
+            print("데이터 크기 : ", numData)
+
+        self.df = pd.DataFrame(self.dict)
+
+
+        self._wait()
+
+
+
+    # codeName - 종목코드
+    # count  - 갯수
+    # progressBar -
+    # mT - [ m = 분봉 , T - 틱봉 ]
     def GetRecentDataFromNumber2(self,codeName, count, progressBar, mT):
 
         columns = ['date','time','open','high','low','close','volume']
@@ -147,8 +200,6 @@ class DesinAPI :
         instStockChart = win32com.client.Dispatch("CpSysDib.StockChart")
         instStockChart.SetInputValue(0, codeName)
         instStockChart.SetInputValue(1, ord('2'))
-        # instStockChart.SetInputValue(2, '20190705')
-        # instStockChart.SetInputValue(3, '20190605')
 
         instStockChart.SetInputValue(4,count)
         instStockChart.SetInputValue(5, [0, 1, 2, 3, 4, 5, 8])
@@ -171,16 +222,6 @@ class DesinAPI :
         KospiList = self.GetMarketCode(1)
         KosdaqList = self.GetMarketCode(2)
 
-
-        # maxCount  = 0
-        # if codeName in KospiList and mT == "m" :
-        #     maxCount = 600
-        # elif codeName in KospiList and mT == "T" :
-        #     maxCount =  20000
-        # elif codeName in KosdaqList and mT == "m" :
-        #     maxCount = 600
-        # elif codeName in KosdaqList and mT == "T" :
-        #     maxCount = 4000
 
         duplicatedCount = 0
 
@@ -214,35 +255,11 @@ class DesinAPI :
 
             if self.numData == 0 :
                 break
-
-
-
-            # if count > maxCount and date[0] in list(set(date[maxCount:])) :
-            #     idx = date[maxCount:].index(date[0])
-            #     date = date[:maxCount+idx]
-            #     tim = tim[:maxCount+idx]
-            #     cPrice = cPrice[:maxCount+idx]
-            #
-            #     break
-
-
-
-
         progressBar.setValue(count)
-
-
-
-
-        # self.dict = {'date' : date, 'time' : tim , 'cPrice' : cPrice}
 
         self.df = pd.DataFrame(self.dict)
         # print(self.df)
 
-
-        # print(self.dict)
-            # stockDate = instStockChart.GetDataValue()
-            # stockData = instStockChart.GetDataValue(1,i)
-            # print(str(stockDate) + " : " + str(stockData))
         self._wait()
 
 
@@ -317,37 +334,6 @@ class DesinAPI :
                 Time.sleep(time_remained/1000)
                 time_remained = self.instCpStockCode.LimitRequestRemainTime
                 cnt_remained = self.instCpStockCode.GetLimitRemainCount(1)
-
-
-
-
-
-
-
-
-def run():
-    conn = DesinAPI()
-    code = conn.GetStockCode("NAVER")
-    # conn.GetEventCode()
-    # conn.GetRecentDataFromDate()
-    # conn.GetRecentDataFromNumber()
-    # conn.GetPER()
-    # instCpCodeMgr = win32com.client.Dispatch("CpUtil.CpCodeMgr")
-    # codeList = instCpCodeMgr.GetStockListByMarket(1)
-    # for i in codeList :
-    #     print(instCpCodeMgr.CodeToName(i))
-    #
-    # print(codeList)
-
-
-
-
-
-
-
-if __name__ == "__main__":
-    run()
-
 
 
 
