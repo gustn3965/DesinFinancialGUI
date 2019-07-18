@@ -188,12 +188,12 @@ class DesinAPI :
     # count  - 갯수
     # progressBar -
     # mT - [ m = 분봉 , T - 틱봉 ]
-    def GetRecentDataFromNumber2(self,codeName, count, progressBar, mT):
+    def GetRecentDataFromNumber2(self,codeName, count,tick_range,  progressBar, mT):
 
         columns = ['date','time','open','high','low','close','volume']
         self.dict = {'date':[], 'time':[],'open':[],'high':[],'low':[],'close':[],'volume':[]}
 
-        # 4 - 개수, 5 - 데이터타입, 6 - 일,주,월,분, 9 - 1수정주가
+        # 4 - 개수, 5 - 데이터타입, 6 - 일,주,월,분, 7 - 분봉 주기 ,  9 - 1수정주가
         instStockChart = win32com.client.Dispatch("CpSysDib.StockChart")
         instStockChart.SetInputValue(0, codeName)
         instStockChart.SetInputValue(1, ord('2'))
@@ -201,7 +201,7 @@ class DesinAPI :
         instStockChart.SetInputValue(4,count)
         instStockChart.SetInputValue(5, [0, 1, 2, 3, 4, 5, 8])
         instStockChart.SetInputValue(6, ord(mT))
-        instStockChart.SetInputValue(7, 1)
+        instStockChart.SetInputValue(7, tick_range)
         instStockChart.SetInputValue(9, ord('1'))
 
 
@@ -258,6 +258,8 @@ class DesinAPI :
         # print(self.df)
 
         self._wait()
+
+
 
 
 

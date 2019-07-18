@@ -169,7 +169,7 @@ class AllDialog(QDialog,  form_class_2 ) :
             try :
                 count = int(self.lineEdit_3.text())
                 for code in codeList:
-                    self.conn.GetRecentDataFromNumber2(code, count, pb ,self.mT)
+                    self.conn.GetRecentDataFromNumber2(code, count,1, pb ,self.mT)
                     self.conn.df.to_csv(str(filePath) + "/" + code + ".csv", mode='a', index=False, encoding="euc-kr")
                     print(code)
             except Exception  as ex:
@@ -184,7 +184,7 @@ class AllDialog(QDialog,  form_class_2 ) :
             try :
                 count = int(self.lineEdit_3.text())
                 for code in self.codeList :
-                    self.conn.GetRecentDataFromNumber2(code, count, pb ,self.mT)
+                    self.conn.GetRecentDataFromNumber2(code, count,1, pb ,self.mT)
                     self.conn.df.to_csv(str(filePath) + "/" + code + ".csv", mode='a', index=False, encoding="euc-kr")
                     print(code)
             except Exception  as ex:
@@ -264,7 +264,7 @@ class AllDialog(QDialog,  form_class_2 ) :
             try :
                 count = int(self.lineEdit_3.text())
                 for code in codeList:
-                    self.conn.GetRecentDataFromNumber2(code, count, pb ,self.mT)
+                    self.conn.GetRecentDataFromNumber2(code, count,1, pb ,self.mT)
                     addNewFileOnOldFile(self.conn.df, code, str(filePath))
                     print(code)
             except Exception  as ex:
@@ -279,7 +279,7 @@ class AllDialog(QDialog,  form_class_2 ) :
             try :
                 count = int(self.lineEdit_3.text())
                 for code in self.codeList:
-                    self.conn.GetRecentDataFromNumber2(code, count, pb ,self.mT)
+                    self.conn.GetRecentDataFromNumber2(code, count,1, pb ,self.mT)
                     addNewFileOnOldFile(self.conn.df, code, str(filePath))
                     print(code)
             except Exception  as ex:
@@ -375,6 +375,8 @@ class MyWindow(QMainWindow, form_class) :
 
         self.lineEdit.returnPressed.connect(self.btn_clicked)
         self.lineEdit_3.returnPressed.connect(self.btn_clicked)
+        self.lineEdit_4.returnPressed.connect(self.btn_clicked)
+        self.lineEdit_4.setText('1')
         self.pushButton.clicked.connect(self.btn_clicked)
         self.pushButton_2.clicked.connect(self.btn_clicked2)
         self.tableWidget.setRowCount(6)
@@ -442,8 +444,10 @@ class MyWindow(QMainWindow, form_class) :
         self.codeName = self.lineEdit.text()
         rqCount = self.lineEdit_3.text()
 
+        tick_range = self.lineEdit_4.text()
         try :
-            self.conn.GetRecentDataFromNumber2(self.codeName, int(rqCount), self.progressBar, self.mT)
+
+            self.conn.GetRecentDataFromNumber2(self.codeName, int(rqCount),int(tick_range), self.progressBar, self.mT)
             # print(self.conn.numData)
             self.data = self.conn.dict
 
@@ -458,7 +462,7 @@ class MyWindow(QMainWindow, form_class) :
                     self.tableWidget.setItem(row,col,QTableWidgetItem(str(val)))
         except Exception  as ex :
             print(ex)
-            QMessageBox.about(self,"주의", "종목코드를 입력하고, \n요청개수를 입력하여, \n누르세요.")
+            QMessageBox.about(self,"주의", "종목코드를 입력하고, \n요청개수를 입력하고, \n주기를 입력해주세요.  \n누르세요.")
 
 
 
