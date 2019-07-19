@@ -24,6 +24,7 @@ class AllDialog(QDialog,  form_class_2 ) :
         self.pushButton_4.setEnabled(False)
         self.lineEdit.setEnabled(False)
         self.lineEdit_2.setEnabled(False)
+        self.lineEdit_4.setText("1")
 
         self.radioButton.clicked.connect(self.radioButtonClicked1)
         self.radioButton_2.clicked.connect(self.radioButtonClicked2)
@@ -98,6 +99,7 @@ class AllDialog(QDialog,  form_class_2 ) :
         recentDate = ""
         count = 0
 
+
         # 날짜이며, 모든 종목일 때,
         if self.boolDate and self.someCodeList == False :
             dict = {'date': [], 'time': [], 'open': [], 'high': [], 'low': [], 'close': [], 'volume': []}
@@ -105,6 +107,7 @@ class AllDialog(QDialog,  form_class_2 ) :
             lastDate = self.lineEdit.text()
             recentDate = self.lineEdit_2.text()
             codeList = self.conn.GetMarketCode(self.cospi_cosdaq)
+
 
             print(len(codeList), "개 남음.")
             a = 0
@@ -165,11 +168,12 @@ class AllDialog(QDialog,  form_class_2 ) :
         # 개수이며, 모든 종목일 때,
         elif self.boolDate == False and self.someCodeList == False :
             codeList = self.conn.GetMarketCode(self.cospi_cosdaq)
+            tick_range = int(self.lineEdit_4.text())
 
             try :
                 count = int(self.lineEdit_3.text())
                 for code in codeList:
-                    self.conn.GetRecentDataFromNumber2(code, count,1, pb ,self.mT)
+                    self.conn.GetRecentDataFromNumber2(code, count,tick_range, pb ,self.mT)
                     self.conn.df.to_csv(str(filePath) + "/" + code + ".csv", mode='a', index=False, encoding="euc-kr")
                     print(code)
             except Exception  as ex:
@@ -180,11 +184,12 @@ class AllDialog(QDialog,  form_class_2 ) :
 
         # 개수이며, 특정 종목일 때,
         elif self.boolDate == False and self.someCodeList :
+            tick_range = int(self.lineEdit_4.text())
 
             try :
                 count = int(self.lineEdit_3.text())
                 for code in self.codeList :
-                    self.conn.GetRecentDataFromNumber2(code, count,1, pb ,self.mT)
+                    self.conn.GetRecentDataFromNumber2(code, count,tick_range, pb ,self.mT)
                     self.conn.df.to_csv(str(filePath) + "/" + code + ".csv", mode='a', index=False, encoding="euc-kr")
                     print(code)
             except Exception  as ex:
@@ -259,12 +264,13 @@ class AllDialog(QDialog,  form_class_2 ) :
         elif self.boolDate == False and self.someCodeList == False:
 
             codeList = self.conn.GetMarketCode(self.cospi_cosdaq)
+            tick_range = int(self.lineEdit_4.text())
 
 
             try :
                 count = int(self.lineEdit_3.text())
                 for code in codeList:
-                    self.conn.GetRecentDataFromNumber2(code, count,1, pb ,self.mT)
+                    self.conn.GetRecentDataFromNumber2(code, count,tick_range, pb ,self.mT)
                     addNewFileOnOldFile(self.conn.df, code, str(filePath))
                     print(code)
             except Exception  as ex:
@@ -275,11 +281,11 @@ class AllDialog(QDialog,  form_class_2 ) :
         # 개수이며, 특정 종목일 때,
         elif self.boolDate == False and self.someCodeList:
 
-
+            tick_range = int(self.lineEdit_4.text())
             try :
                 count = int(self.lineEdit_3.text())
                 for code in self.codeList:
-                    self.conn.GetRecentDataFromNumber2(code, count,1, pb ,self.mT)
+                    self.conn.GetRecentDataFromNumber2(code, count,tick_range, pb ,self.mT)
                     addNewFileOnOldFile(self.conn.df, code, str(filePath))
                     print(code)
             except Exception  as ex:

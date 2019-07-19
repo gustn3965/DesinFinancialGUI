@@ -18,7 +18,6 @@ from PyQt5.QtWidgets import *
 class DesinAPI :
     a = 1
 
-
     # Check conenction
     def __init__(self):
         self.result = ""
@@ -72,12 +71,6 @@ class DesinAPI :
         self.dataDict = {'name' : nameList , 'code' : codeList}
         print(self.dataDict)
 
-
-
-
-
-
-
         print(instCpStockCode.NameToCode(name))
 
 
@@ -112,7 +105,6 @@ class DesinAPI :
 
 
 
-
     # 해당종목의 날짜별로  주가를 알 수 있다.
     # https://money2.daishin.com/e5/mboard/ptype_basic/HTS_Plus_Helper/DW_Basic_Read_Page.aspx?boardseq=284&seq=102&page=4&searchString=CpSysDib&p=8839&v=8642&m=9508
     def GetRecentDataFromNumber(self) :
@@ -131,7 +123,6 @@ class DesinAPI :
 
         numField = instStockChart.GetHeaderValue(1)
 
-        print("머지이이이ㅣㅇ/")
         for i in range(0, numData) :
             for j in range(0,numField) :
                 print(instStockChart.GetDataValue(j, i), end=" ")
@@ -178,8 +169,6 @@ class DesinAPI :
             print("데이터 크기 : ", numData)
 
         self.df = pd.DataFrame(self.dict)
-
-
         self._wait()
 
 
