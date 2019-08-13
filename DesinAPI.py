@@ -47,7 +47,7 @@ class DesinAPI :
 
 
 
-    def SearchNameList(self, name ):
+    def SearchNameListByName(self, name ):
         nameList = []
         codeList = []
 
@@ -69,9 +69,35 @@ class DesinAPI :
             codeList.append(instCpStockCode.NameToCode(i))
 
         self.dataDict = {'name' : nameList , 'code' : codeList}
-        print(self.dataDict)
 
-        print(instCpStockCode.NameToCode(name))
+
+    def SearchNameListByCode(self, code ):
+        nameList = []
+        codeList = []
+
+        instCpStockCode = win32com.client.Dispatch("CpUtil.CpStockCode")
+        maxCodeNum = instCpStockCode.GetCount()
+
+        for i in range(0,maxCodeNum) :
+            codeList.append(instCpStockCode.GetData(0,i))
+
+
+
+        name = code.upper()
+        regex = re.compile(name)
+
+
+        matches = [string for string in codeList if re.match(regex, re.split("\D",string)[1])]
+        print(matches)
+
+        dataDict = { }
+        codeList = []
+
+        for i in matches :
+            codeList.append(i)
+            nameList.append(instCpStockCode.CodeToName(i))
+
+        self.dataDict = {'name' : nameList , 'code' : codeList}
 
 
 
@@ -196,47 +222,21 @@ class DesinAPI :
 
 
 
-    # 해당종목의 날짜별로  주가를 알 수 있다.
-    # https://money2.daishin.com/e5/mboard/ptype_basic/HTS_Plus_Helper/DW_Basic_Read_Page.aspx?boardseq=284&seq=102&page=4&searchString=CpSysDib&p=8839&v=8642&m=9508
-    def GetRecentDataFromNumber(self) :
-        # 4 - 개수, 5 - 데이터타입, 6 - 일,주,월,분, 9 - 1수정주가
-        instStockChart = win32com.client.Dispatch("CpSysDib.StockChart")
-        instStockChart.SetInputValue(0, "A035420")
-        instStockChart.SetInputValue(1,ord('1'))
-        instStockChart.SetInputValue(2,'20190703')
-        instStockChart.SetInputValue(3,'20190701')
-
-        instStockChart.SetInputValue(5, [0,1,2])
-        instStockChart.SetInputValue(6,ord('m'))
-        instStockChart.SetInputValue(9,ord('1'))
-        instStockChart.BlockRequest()
-        numData = instStockChart.GetHeaderValue(3)
-
-        numField = instStockChart.GetHeaderValue(1)
-
-        for i in range(0, numData) :
-            for j in range(0,numField) :
-                print(instStockChart.GetDataValue(j, i), end=" ")
-            print()
-
-        self._wait()
 
 
 
 
 
 
-
-
+    # 가장 첫번째 화면에서 데이터불러오기.
     # codeName - 종목코드
     # count  - 갯수
     # progressBar -
     # mT - [ m = 분봉 , T - 틱봉 ]
-    def GetRecentDataFromNumber2(self,codeName, count,tick_range,  progressBar, mT):
+    def GetRecentData(self,codeName, count,tick_range,  progressBar, mT):
 
         columns = ['날짜', '시간', '시가', '고가', '저가', '종가', '거래량']
         self.dict = {'날짜':[], '시간':[],'시가':[],'고가':[],'저가':[],'종가':[],'거래량':[]}
-
 
 
 # CpSysDib.StockChart를 사용
@@ -320,85 +320,6 @@ class DesinAPI :
 
 
         self._wait()
-
-
-    def GetRecentAllDataFromNumber(self,codeName, count,tick_range,  progressBar, mT):
-
-        columns = ['날짜','시간','시가','고가','저가','종가','전일대비','거래량','거래대금','누적체결매도수량','누적체결매수수량','상장주식수','시가총액','외국인주문한도수량','외국인주문가능수량','외국인현보유수량','외국인현보유비율','수정주가일자','수정주가비율','기관순매수','기관누적순매수','등락주선','등락비율','예탁금','주식회전율','거래성립률','대비부호']
-        print(len(columns))
-        print(len([0,1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,37]))
-        self.dict = {'날짜':[],'시간':[],'시가':[],'고가':[],'저가':[],'종가':[],'전일대비':[],'거래량':[],'거래대금':[],'누적체결매도수량':[],'누적체결매수수량':[],'상장주식수':[],'시가총액':[],'외국인주문한도수량':[],'외국인주문가능수량':[],'외국인현보유수량':[],'외국인현보유비율':[],'수정주가일자':[],'수정주가비율':[],'기관순매수':[],'기관누적순매수':[],'등락주선':[],'등락비율':[],'예탁금':[],'주식회전율':[],'거래성립률':[],'대비부호':[]}
-
-        # 4 - 개수, 5 - 데이터타입, 6 - 일,주,월,분, 7 - 분봉 주기 ,  9 - 1수정주가
-        instStockChart = win32com.client.Dispatch("CpSysDib.StockChart")
-        instStockChart.SetInputValue(0, codeName)
-        instStockChart.SetInputValue(1, ord('2'))
-
-        instStockChart.SetInputValue(4,count)
-        instStockChart.SetInputValue(5, [0,1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,37])
-        instStockChart.SetInputValue(6, ord(mT))
-        instStockChart.SetInputValue(7, 1)
-        instStockChart.SetInputValue(9, ord('1'))
-
-
-
-
-        # 요청하는 값에 비해, 한번에 받을 수 있는 개수는 6665개.
-        # 그러므로, 요청을 반복해야한다. + time.sleep을 걸어준다.
-        # 요청값이 총 받은 개수보다 크면, ( 같아도 False) stop.
-        # 참고 https://github.com/gyusu/Creon-Datareader/blob/master/creonAPI.py
-        rcv_count = 0
-
-        progressBar.setMinimum(rcv_count)
-        progressBar.setMaximum(count)
-
-
-
-
-        duplicatedCount = 0
-
-        while count > rcv_count :
-            progressBar.setValue(rcv_count)
-
-            instStockChart.BlockRequest()
-            Time.sleep(0.25)
-            self.numData = instStockChart.GetHeaderValue(3)
-            self.numData = min(self.numData, count - rcv_count)
-
-
-            print("받은 데이타 : ",self.numData)
-
-            if self.numData != 739 :
-                duplicatedCount += 1
-            if duplicatedCount > 1 :
-                break
-
-            numField = instStockChart.GetHeaderValue(1)
-
-            for i in range(0, self.numData):
-                for j in range(0, numField):
-                    self.dict[columns[j]].append(instStockChart.GetDataValue(j,i))
-            rcv_count += self.numData
-
-
-            # 2년치의 데이터가 넘어가면, 최신데이터도 가져오는데,
-            # 중복의 최신데이터는 필요없기 때문에,
-            # 만약 최신데이터가 나타나면 자르고, break한다.
-
-            if self.numData == 0 :
-                break
-        progressBar.setValue(count)
-
-        self.df = pd.DataFrame(self.dict)
-        self.df.to_csv(codeName+".csv", mode='a', index=False,
-                                          encoding="euc-kr")
-        # print(self.df)
-
-        self._wait()
-
-
-
-
 
 
 

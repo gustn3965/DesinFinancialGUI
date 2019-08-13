@@ -437,230 +437,6 @@ class MyWindow(QMainWindow, form_class) :
         self.tableWidget.setRowCount(6)
         self.tableWidget.setColumnCount(7)
         self.conn = DesinAPI.DesinAPI()
-        # self.conn.GetRecentAllDataFromNumber("A005930",130,120,self.progressBar, 'm')
-        # self.conn.GetRecentAllDataFromNumber("A005930", 350, 1, self.progressBar, 'D')
-        # self.conn.OnReceived()
-        # self.conn.GetSeveralCode()
-        # self.conn.GetPeriodMinute('A051900','20180504','20180504')
-
-
-
-
-
-#############        리스트중에 다운받은 데이터가있는지 확인,
-#                    다운받은 데이터중에 가장 최근 날짜를 가져옴.
-#                    그리고 현재날짜부터 가장 최근 날짜까지 데이터를 가져온다 .
-#
-#         self.conn.GetUpdatePeriod("A005930","20190802","20190701" ,'1', 'D')
-#         self.conn.df.to_csv('0812/A005930.csv', mode='w', index=False, encoding='euc-kr')
-
-        # currData = pd.read_csv("0812/A005930.csv", index_col=False, encoding="euc-kr")
-        # print("가장 빠른 날짜")
-        # recentDay = currData.iloc[-1,][0]
-        # currLastDateIndex = currData[currData['날짜']==recentDay].index.values[0]
-        #
-        #
-        # #오늘 날짜,
-        # today = datetime.date.today().strftime("%Y%m%d")
-        # # 오늘날짜부터 최근날짜까지 데이터 불러옴.
-        # self.conn.GetUpdatePeriod("A005930",today,str(recentDay), "1",'D')
-        #
-        #
-        # # 최근데이터와 오늘데이터를 합침.
-        # updateData = pd.concat([currData.iloc[:currLastDateIndex,],self.conn.df])
-        # updateData.to_csv("0812/미포함.csv", mode='a', index=False,
-        #                encoding="euc-kr")
-
-        # print(updateData)
-
-
-
-
-        ### 시간 맞춰서 실행.
-        # targetTime = '2019-08-06 14:11:00'
-        # thisTime = datetime.datetime.strptime(targetTime,  '%Y-%m-%d %H:%M:%S')
-        # print(thisTime)
-        # while True :
-        #     # print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
-        #     if targetTime == datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'):
-        #         # print(datetime.datetime.now())
-        #         print("싲가!!!!")
-        #
-        #         self.cprice = 0
-        #         objCur = []
-        #         objCur.append(DesinAPI.CpStockCur())
-        #         objCur[0].Subscribe("A005930", self.cprice)
-        #         break
-        #
-        # print(datetime.datetime.now())
-
-
-
-
-        ###### 주식종목 실시간조회 1개.
-        # self.cprice = 0
-        # objCur = []
-        # objCur.append(DesinAPI.CpStockCur())
-        # objCur[0].Subscribe("A005930", self.cprice)
-
-        ###### 주식종목 실시간조회 1개.
-
-
-
-
-
-        ########## 코스피,코스닥 지수 가져오기
-        # koreaList = ["U180","U201"]
-        # for code in koreaList :
-        #     self.conn.GetRecentDataFromNumber2(code, 200000,1,self.progressBar,'m')
-
-
-
-
-#########국가지수 실시간 조회
-        # self.conn.getWorld()
-        # worldList  = [".DJI","COMP","SPX","JP#NI225","HK#HS","SHANG"]
-        # for i in worldList :
-        #     self.conn.getWorldData(i,4000)
-        #
-        # objCur = []
-        # for i in range(len(worldList)) :
-        #     objCur.append(DesinAPI.WorldCur())
-        #     objCur[i].Subscribe(worldList[i])
-
-
-        # self.conn.getWorldData("COMP", 3660)
-
-################## 실시간 시간외 수신
-        # self.cprice = 0
-        # objCur = []
-        # objCur.append(DesinAPI.StockUniCur())
-        # objCur[0].Subscribe("A005930")
-
-
-
-########################### 주문하기
-        # self.aa = DesinAPI.CpFutureOrder()
-        # print(self.aa.acc)
-        #
-        #
-        # rtMst = DesinAPI.stockPricedData()
-        # current = DesinAPI.CpRPCurrentPrice()
-        # current.Request("A102280",rtMst)
-        #
-        # print(rtMst.cur)
-        #
-        # order = DesinAPI.CpFutureOrder()
-        # order.buyOrder(1195, 1)
-
-        ###########################
-
-########### 취소하기
-        # cancel = DesinAPI.CpCancel()
-        # cancel.Cancel('1066','A102280')
-
-################## 증거금포함 가능 수량 확인
-        #
-        # rtMst = DesinAPI.stockPricedData()
-        # current = DesinAPI.CpRPCurrentPrice()
-        #
-        # current.Request("A005930", rtMst)
-        # print(rtMst.cur)
-        # self.conn.getMargin("A005930",rtMst.cur)
-
-
-
-########## ETF 시장종류가 무엇인지,
-        # self.conn.GetMarketCode("A114800")
-
-
-
-
-##########  ETF 일봉, 분봉 다운
-        # dataList = pd.read_csv("etfList2.csv", encoding='euc-kr')
-        # self.codeList = dataList.iloc[:, 0]
-
-
-        #for code in self.codeList:
-         #   self.conn.GetRecentAllDataFromNumber3(code, 200000, 1, self.progressBar, "m")
-
-        # for code in self.codeList:
-        #     self.conn.GetRecentAllDataFromNumber4(code, 200000, 1, self.progressBar, "D")
-
-
-        # self.conn.GetRecentAllDataFromNumber3("A005930",200000,1,self.progressBar,"m")
-
-
-
-
-
-
-
-
-######## 삼성전자 장전후 미포함 거래량만 뽑아내기.
-        sam1 = pd.read_csv("A005930yes.csv", encoding='euc-kr')
-        sam2 = pd.read_csv("A005930no.csv",encoding='euc-kr')
-        #
-        # # print(sam1)
-        # samsung1 = sam1[(sam1['시간']==1530) | (sam1['시간']==901)]
-        # # print(sam1901)
-        # samsung2 = sam2[(sam2['시간']==1530) | (sam2['시간']==901)]
-        # samsung1.to_csv("samsung1.csv", index=False, encoding = "euc-kr", mode = 'w')
-        # samsung2.to_csv("samsung2.csv", index=False, encoding="euc-kr", mode='w')
-
-        # sam1 = pd.read_csv("samsung1.csv", encoding='euc-kr')
-        # sam2 = pd.read_csv("samsung2.csv", encoding='euc-kr')
-        #
-        # sam1['거래량'] = sam1['거래량'] - sam2['거래량']
-        # # print(sam1)
-        # sam1['거래대금'] = sam1['거래대금'] - sam2['거래대금']
-        #
-        # sam1.to_csv("samsungOriginal.csv", mode = 'w' , encoding= 'euc-kr', index= False)
-        # print(sam1)
-        #
-        # date15 = sam1[sam1['시간']==1530]['날짜']
-        # date9 = sam1[sam1['시간']==901]['날짜']
-        #
-        # lastVol = sam1[sam1['시간']==1530]['거래량']
-        # firstVol = sam1[sam1['시간']==901]['거래량']
-        # lastPay = sam1[sam1['시간']==1530]['거래대금']
-        # firstPay = sam1[sam1['시간']==901]['거래대금']
-        #
-        # samsung = pd.DataFrame({'날짜':date9, '거래량':firstVol, '거래대금': firstPay})
-        # samsung.to_csv('samsungBefore.csv', mode='w', encoding='euc-kr', index=False)
-        # samsung = pd.DataFrame({'날짜': date15, '거래량': lastVol, '거래대금': lastPay})
-        # samsung.to_csv('samsungAfter.csv', mode='w', encoding='euc-kr', index=False)
-
-        # samsung = pd.DataFrame({'날짜':date, '장전거래량':firstVol, '장종료거래량':lastVol, '장전거래대금':firstPay, '장종료거래대금':lastPay})
-        # samsung.to_csv('samsungChange.csv',mode = 'w', encoding = 'euc-kr', index= False )
-
-
-
-
-########### 거래정지가 된 종목이 잇는지 ㅗ학인
-        # self.conn.GetMarketCode('df')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        # self.conn.GetSeveralCode()
-        # objCur = []
-        #
-        # for i in range(len(self.conn.codeList)) :
-        #
-        #     objCur.append(DesinAPI.CpStockCur())
-        #     objCur[i].Subscribe(self.conn.codeList[i])
-
 
 
 
@@ -702,6 +478,8 @@ class MyWindow(QMainWindow, form_class) :
         self.tableWidget_2.setEditTriggers(QAbstractItemView.NoEditTriggers)
         self.pushButton_4.clicked.connect(self.btn_clicked4)
 
+        self.checkBox.setChecked(True)
+
 
 
 
@@ -726,7 +504,8 @@ class MyWindow(QMainWindow, form_class) :
         tick_range = self.lineEdit_4.text()
         try :
 
-            self.conn.GetRecentDataFromNumber2(self.codeName, int(rqCount),int(tick_range), self.progressBar, self.mT)
+
+            self.conn.GetRecentData(self.codeName, int(rqCount),int(tick_range), self.progressBar, self.mT)
             # print(self.conn.numData)
             self.data = self.conn.dict
 
@@ -739,6 +518,9 @@ class MyWindow(QMainWindow, form_class) :
 
                     item = QTableWidgetItem(val)
                     self.tableWidget.setItem(row,col,QTableWidgetItem(str(val)))
+
+
+
         except Exception  as ex :
             print(ex)
             QMessageBox.about(self,"주의", "종목코드를 입력하고, \n요청개수를 입력하고, \n주기를 입력해주세요.  \n누르세요.")
@@ -763,13 +545,25 @@ class MyWindow(QMainWindow, form_class) :
 
         name = self.lineEdit_2.text()
 
-        self.conn.SearchNameList(name)
-        rowCnt = len(self.conn.dataDict['name'])
-        self.tableWidget_2.setRowCount(rowCnt)
-        for k,v in self.conn.dataDict.items() :
-            col = column_idx_lookup[k]
-            for row,val in enumerate(v) :
-                self.tableWidget_2.setItem(row,col,QTableWidgetItem(str(val)))
+        if self.checkBox.isChecked():
+            self.conn.SearchNameListByName(name)
+            rowCnt = len(self.conn.dataDict['name'])
+            self.tableWidget_2.setRowCount(rowCnt)
+            for k,v in self.conn.dataDict.items() :
+                col = column_idx_lookup[k]
+                for row,val in enumerate(v) :
+                    self.tableWidget_2.setItem(row,col,QTableWidgetItem(str(val)))
+
+        elif self.checkBox_2.isChecked() :
+            self.conn.SearchNameListByCode(name)
+            rowCnt = len(self.conn.dataDict['name'])
+            self.tableWidget_2.setRowCount(rowCnt)
+            for k, v in self.conn.dataDict.items():
+                col = column_idx_lookup[k]
+                for row, val in enumerate(v):
+                    self.tableWidget_2.setItem(row, col, QTableWidgetItem(str(val)))
+
+
 
     def radioButtonClicked(self):
         self.mT = "m"
@@ -791,10 +585,6 @@ class MyWindow(QMainWindow, form_class) :
         dlg.exec_()
 
 
-
-    def btn_clicked6(self):
-
-        addNewFileOnOldFile(self.conn.df, self.codeName)
 
 
 
@@ -877,50 +667,6 @@ def addNewFileOnOldFileMinute(conn,code,pb,filePath,mT ) :
 
 
 
-
-def addNewFileOnOldFile(conn,code,tick_range,pb, newFile,codeName,filePath,mT ):
-    new_df = newFile.sort_index(ascending=False).reset_index(drop=True)
-
-    path = filePath+"/" + codeName + ".csv"
-
-    try :
-        old_df = pd.read_csv(path,  index_col=False, encoding = 'euc-kr')
-    except Exception  as ex:
-
-        if mT == 'D' :
-            conn.GetDayData(code, 100, tick_range, pb)
-            conn.df.to_csv(str(filePath) + "/" + code + ".csv", mode='a', index=False,
-                                encoding="euc-kr")
-        else :
-            conn.GetMinuteOrTickData(code, 20000, tick_range, pb, mT)
-            conn.df.to_csv(str(filePath) + "/" + code + ".csv", mode='a', index=False,
-                                encoding="euc-kr")
-        return True
-
-
-    # if old_df.columns.size == 8 :
-    #     old_df = old_df.iloc[:,1:]
-
-    print(old_df)
-    print('완료')
-    old_first = old_df.iloc[-1,][0]
-    print("가장 빠른 날짜 : ",old_first)
-    try :
-        old_index = new_df[new_df['날짜'] == old_first].index.values[0]
-
-        print(old_index)
-        new_df2 = new_df.iloc[old_index+1:, ]
-        print("new_df : ",new_df)
-        print(new_df2)
-
-        real_new_df = pd.concat([old_df,new_df2])
-        real_new_df.to_csv(path, mode='w', index=False, encoding='euc-kr')
-        return True
-    except Exception  as ex:
-        print(ex)
-        explain =  "겹치는 구간이 없습니다. \n\n 가장 최근 데이터는 \n\n" + str(math.trunc(old_first))
-        QMessageBox.about(QWidget(), "주의",explain )
-        return True
 
 
 
