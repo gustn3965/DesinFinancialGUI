@@ -64,13 +64,6 @@
         </property>
        </widget>
       </item>
-      <item row="1" column="3">
-       <widget class="QRadioButton" name="radioButton_2">
-        <property name="text">
-         <string>틱</string>
-        </property>
-       </widget>
-      </item>
       <item row="0" column="5">
        <spacer name="horizontalSpacer">
         <property name="orientation">
@@ -148,16 +141,6 @@
         </property>
         <property name="alignment">
          <set>Qt::AlignCenter</set>
-        </property>
-       </widget>
-      </item>
-      <item row="0" column="3">
-       <widget class="QRadioButton" name="radioButton">
-        <property name="text">
-         <string>분봉(1분)</string>
-        </property>
-        <property name="autoRepeat">
-         <bool>false</bool>
         </property>
        </widget>
       </item>
@@ -269,6 +252,30 @@
       </item>
       <item row="2" column="2">
        <widget class="QLineEdit" name="lineEdit_4"/>
+      </item>
+      <item row="2" column="3">
+       <widget class="QRadioButton" name="radioButton_2">
+        <property name="text">
+         <string>틱</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="3">
+       <widget class="QRadioButton" name="radioButton">
+        <property name="text">
+         <string>분봉(1분)</string>
+        </property>
+        <property name="autoRepeat">
+         <bool>false</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="3">
+       <widget class="QRadioButton" name="radioButton_3">
+        <property name="text">
+         <string>일봉</string>
+        </property>
+       </widget>
       </item>
      </layout>
     </item>
