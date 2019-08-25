@@ -1,16 +1,14 @@
-import sys , csv
+import sys
 from PyQt5.QtWidgets import  *
 from PyQt5 import uic
-from PyQt5.QtGui import *
+
 import DesinAPI
 import pandas as pd
 import re
-import math
-import os
 
+import os
 import datetime
-from os import listdir
-from os.path import isfile, join
+
 
 form_class = uic.loadUiType("DesinGUI.ui")[0]
 form_class_2 = uic.loadUiType("AllDialog.ui")[0]
@@ -47,6 +45,8 @@ class AllDialog(QDialog,  form_class_2 ) :
         self.pushButton_3.clicked.connect(self.btn_clicked_3)
 
         self.pushButton_4.clicked.connect(self.btn_clicked_4)
+        self.pushButton_5.clicked.connect(self.btn_clicked_5)
+        self.pushButton_6.clicked.connect(self.btn_clicked_6)
 
 
 
@@ -237,7 +237,7 @@ class AllDialog(QDialog,  form_class_2 ) :
             try:
                 for code in codeList:
                     self.conn.GetPeriodMinute(code, lastDate, recentDate)
-                    addNewFileOnOldFile(self.conn.df, code, str(filePath))
+
                     print(code)
 
 
@@ -266,7 +266,7 @@ class AllDialog(QDialog,  form_class_2 ) :
                     self.conn.GetPeriodMinute(code, lastDate, recentDate)
                     print(self.conn.df)
 
-                    addNewFileOnOldFile(self.conn.df, code,str(filePath))
+
 
                     print(code)
             except Exception  as ex:
@@ -318,6 +318,78 @@ class AllDialog(QDialog,  form_class_2 ) :
 
 
 
+
+
+############ 코스피/코스닥/분봉/일봉 한번에 업데이트 하기.
+    def btn_clicked_5(self):
+
+        QMessageBox.about(self, "주의", "코스피분봉 \n코스피일봉 \n코스닥분봉 \n코스닥일봉 \n\n총 4개의 폴더가 있는 폴더를 지정해주세요.")
+        filePath = QFileDialog.getExistingDirectory(self, '폴더를 선택해주세요')
+        pb = QProgressBar(self)
+
+
+        codeList = self.conn.GetCodeList(1)
+        count = 0
+        try :
+
+            for code in codeList:
+                addNewFileOnOldFileDay(self.conn,code,pb,str(filePath)+"/코스피일봉")
+                count += 1
+                print(len(codeList), " 중에 " ,count ," 완료 - 코스피일봉")
+        except Exception  as ex:
+            print(ex)
+            QMessageBox.about(self, "주의", "개수를 입력해주세요. \nex( 200000 )")
+
+        count = 0
+        try :
+
+            for code in codeList:
+                addNewFileOnOldFileMinute(self.conn, code, pb, str(filePath) + "/코스피분봉", "m")
+                count += 1
+                print(len(codeList), " 중에 ", count, " 완료  - 코스피분봉")
+        except Exception  as ex:
+            print(ex)
+            QMessageBox.about(self, "주의", "개수를 입력해주세요. \nex( 200000 )")
+
+
+
+        codeList = self.conn.GetCodeList(2)
+        count = 0
+        try:
+
+            for code in codeList:
+                addNewFileOnOldFileDay(self.conn, code, pb, str(filePath) + "/코스닥일봉")
+                count += 1
+                print(len(codeList), " 중에 ", count, " 완료 - 코스닥일봉")
+        except Exception  as ex:
+            print(ex)
+            QMessageBox.about(self, "주의", "개수를 입력해주세요. \nex( 200000 )")
+
+        count = 0
+        try:
+
+            for code in codeList:
+                addNewFileOnOldFileMinute(self.conn, code, pb, str(filePath) + "/코스닥분봉", "m")
+                count += 1
+                print(len(codeList), " 중에 ", count, " 완료 - 코스닥분봉")
+        except Exception  as ex:
+            print(ex)
+            QMessageBox.about(self, "주의", "개수를 입력해주세요. \nex( 200000 )")
+
+
+
+############ 지수 리스트 업데이트 하기.
+    def btn_clicked_6(self):
+
+        QMessageBox.about(self, "주의", "ETF \nKOSDAQ1 \nKOSDAQ1 \nKOSPI \nWORLD1 \nWORLD2\n\n총 6개의 폴더가 있는 폴더를 지정해주세요.")
+        filePath = QFileDialog.getExistingDirectory(self, '폴더를 선택해주세요')
+
+
+        try :
+            self.conn.UpdateIndexList(str(filePath))
+        except Exception as ex :
+            print(ex)
+            QMessageBox.about(self, "주의", "폴더가 만들어있지 않습니다. ")
 
 
 
@@ -437,8 +509,6 @@ class MyWindow(QMainWindow, form_class) :
         self.tableWidget.setRowCount(6)
         self.tableWidget.setColumnCount(7)
         self.conn = DesinAPI.DesinAPI()
-
-
 
 
         self.label_4.setText(self.conn.result)
@@ -584,8 +654,12 @@ class MyWindow(QMainWindow, form_class) :
         dlg.getConn(self.conn)
         dlg.exec_()
 
-
-
+    def chek_clicked(self):
+        # if self.checkBox.isChecked() :
+        #     self.checkBox_2.setChecked(False)
+        # elif self.checkBox_2.isChecked() :
+        #     self.checkBox.setChecked(False)
+        print("df")
 
 
 #--------------------------
@@ -605,28 +679,37 @@ def addNewFileOnOldFileDay(conn,code,pb,filePath) :
 
         return True
 
-    # currData = pd.read_csv("0812/A005930.csv", index_col=False, encoding="euc-kr")
-    print("가장 빠른 날짜")
-    recentDay = currData.iloc[-1,][0]
-    currLastDateIndex = currData[currData['날짜'] == recentDay].index.values[0]
-    print(recentDay)
-
-    # 오늘 날짜,
-    today = datetime.date.today().strftime("%Y%m%d")
-    print("오늘 날짜 : ", today)
-    # 오늘날짜부터 최근날짜까지 데이터 불러옴.
-    print("오늘데이터 ---->>>>")
-    conn.GetUpdatePeriodDay(code, today, str(recentDay))
 
 
 
-    # 최근데이터와 오늘데이터를 합침.
+    try :
+        print("가장 빠른 날짜")
+        recentDay = currData.iloc[-1,][0]
+        currLastDateIndex = currData[currData['날짜'] == recentDay].index.values[0]
+        print(recentDay)
 
-    updateData = pd.concat([currData.iloc[:currLastDateIndex, ], conn.df])
-    updateData.to_csv(path, mode='w', index=False,
-                      encoding="euc-kr")
+        # 오늘 날짜,
+        today = datetime.date.today().strftime("%Y%m%d")
+        print("오늘 날짜 : ", today)
+        # 오늘날짜부터 최근날짜까지 데이터 불러옴.
 
-    print(updateData)
+        conn.GetUpdatePeriodDay(code, today, str(recentDay))
+
+
+
+        # 최근데이터와 오늘데이터를 합침.
+
+        updateData = pd.concat([currData.iloc[:currLastDateIndex, ], conn.df])
+        updateData.to_csv(path, mode='w', index=False,
+                          encoding="euc-kr")
+    except Exception  as ex:
+
+        conn.GetDayData(code, 1000000,1, pb)
+        conn.df.to_csv(path, mode='w', index=False,
+                           encoding="euc-kr")
+
+        return True
+    # print(updateData)
 
 
 
@@ -643,30 +726,34 @@ def addNewFileOnOldFileMinute(conn,code,pb,filePath,mT ) :
                            encoding="euc-kr")
         return True
 
-    # currData = pd.read_csv("0812/A005930.csv", index_col=False, encoding="euc-kr")
-    print("가장 빠른 날짜")
-    recentDay = currData.iloc[-1,][0]
-    currLastDateIndex = currData[currData['날짜'] == recentDay].index.values[0]
-    print(recentDay)
 
 
-    # 오늘 날짜,
-    today = datetime.date.today().strftime("%Y%m%d")
-    print("오늘 날짜 : ", today)
-    # 오늘날짜부터 최근날짜까지 데이터 불러옴.
-    print("오늘데이터 ---->>>>")
-    conn.GetUpdatePeriodMinutes(code, today, str(recentDay), mT)
+    try :
+        print("가장 빠른 날짜")
+        recentDay = currData.iloc[-1,][0]
+        currLastDateIndex = currData[currData['날짜'] == recentDay].index.values[0]
+        print(recentDay)
 
 
-    # 최근데이터와 오늘데이터를 합침.
-    updateData = pd.concat([currData.iloc[:currLastDateIndex, ], conn.df])
-    updateData.to_csv(path, mode='w', index=False,
-                      encoding="euc-kr")
+        # 오늘 날짜,
+        today = datetime.date.today().strftime("%Y%m%d")
+        print("오늘 날짜 : ", today)
+        # 오늘날짜부터 최근날짜까지 데이터 불러옴.
 
-    print(updateData)
+        conn.GetUpdatePeriodMinutes(code, today, str(recentDay), mT)
 
 
+        # 최근데이터와 오늘데이터를 합침.
+        updateData = pd.concat([currData.iloc[:currLastDateIndex, ], conn.df])
+        updateData.to_csv(path, mode='w', index=False,
+                          encoding="euc-kr")
+    except Exception as ex :
+        conn.GetMinuteOrTickData(code, 200000, 1, pb, mT)
+        conn.df.to_csv(path, mode='w', index=False,
+                       encoding="euc-kr")
+        return True
 
+    # print(updateData)
 
 
 

@@ -1,3 +1,4 @@
+import datetime
 import win32com.client
 import time as Time
 import pandas as pd
@@ -69,7 +70,9 @@ class DesinAPI :
             codeList.append(instCpStockCode.NameToCode(i))
 
         self.dataDict = {'name' : nameList , 'code' : codeList}
+        print(self.dataDict)
 
+        print(instCpStockCode.NameToCode(name))
 
     def SearchNameListByCode(self, code ):
         nameList = []
@@ -102,6 +105,137 @@ class DesinAPI :
 
 
 
+######  지수 별 리스트 업데이트.
+
+    def UpdateIndexList(self, filePath) :
+        # 1. 코스피 지수 리스트
+        # 2. 코스닥 지수 리스트 1
+        # 3. 코스닥 지수 리스트 2
+        # 4. 해외지수 리스트
+        # 5. 해외지수 리스트 2
+        # 6. ETF 지수 리스트
+
+        now = datetime.datetime.now()
+        nowDate = now.strftime('%y%m%d')
+
+        instCpCode = win32com.client.Dispatch("CpUtil.CpCodeMgr")
+        chart = win32com.client.Dispatch("CpSysDib.StockChart")
+
+
+        # 코스닥 산업별 =           GetKosdaqIndustry1List
+        # 코스닥 지수업종 코드 =     GetKosdaqIndustry2List
+        # 증권전산업종코드  =        GetIndustryList
+        indusList = instCpCode.GetIndustryList()
+
+        kospi = {'code': [], 'name': []}
+
+        for indus in indusList:
+
+            kospi['code'].append(indus)
+            kospi['name'].append(instCpCode.GetIndustryName(indus))
+
+        kospiList = pd.DataFrame(kospi)
+        kospiList_name = "LIST_KOSPI_" + nowDate + ".csv"
+        print(kospiList)
+        kospiList.to_csv(filePath + "/KOSPI/" + kospiList_name, index=False, mode='a', encoding='euc-kr')
+
+
+        ##################################################################################
+
+        indusList = instCpCode.GetKosdaqIndustry1List()
+
+        kosdaq = {'code': [], 'name': []}
+
+        for indus in indusList:
+            # 업종 이름 반환.
+
+            kosdaq['code'].append(indus)
+            kosdaq['name'].append(instCpCode.GetIndustryName(indus))
+
+        kosdaqList = pd.DataFrame(kosdaq)
+        kosdaqList_name = "LIST_KOSDAQ_" + nowDate + ".csv"
+        print(kospiList)
+        kosdaqList.to_csv(filePath + "/KOSDAQ1/" + kosdaqList_name, index=False, mode='a', encoding='euc-kr')
+
+        ##################################################################################
+
+        indusList = instCpCode.GetKosdaqIndustry2List()
+
+        kosdaq2 = {'code': [], 'name': []}
+
+        for indus in indusList:
+            # 업종 이름 반환.
+
+            kosdaq2['code'].append(indus)
+            kosdaq2['name'].append(instCpCode.GetIndustryName(indus))
+
+        kosdaq2List = pd.DataFrame(kosdaq2)
+        kosdaq2List_name = "LIST_KOSDAQ2_" + nowDate + ".csv"
+        print(kospiList)
+        kosdaq2List.to_csv(filePath + "/KOSDAQ2/" + kosdaq2List_name, index=False, mode='a', encoding='euc-kr')
+
+
+        ##################################################################################
+
+        object = win32com.client.Dispatch("CpUtil.CpUsCode")
+        world1 = {'code': [], 'name': []}
+        va = object.GetUsCodeList(2)
+
+        for i in va:
+            world1['code'].append(i)
+            world1['name'].append(object.GetNameByUsCode(i))
+
+
+        world2 = {'code': [], 'name': []}
+        va = object.GetUsCodeList(3)
+
+        for i in va:
+            world2['code'].append(i)
+            world2['name'].append(object.GetNameByUsCode(i))
+
+        worldList1 = pd.DataFrame(world1)
+        worldList1_name = "LIST_WORLD1_" + nowDate + ".csv"
+        worldList1.to_csv(filePath + "/WORLD1/" + worldList1_name, mode='a', index=False,
+                         encoding="euc-kr")
+
+        worldList2 = pd.DataFrame(world2)
+        worldList2_name = "LIST_WORLD2_" + nowDate + ".csv"
+        worldList2.to_csv(filePath + "/WORLD2/"+ worldList2_name , mode='a', index=False,
+                                          encoding="euc-kr")
+
+
+
+
+        ##################################################################################
+
+
+
+        etf = {'code': [], 'name': []}
+        allList = []
+        for i in range(0, 6):
+
+            self.codeList = instCpCode.GetStockListbyMarket(i)
+
+            for code in self.codeList:
+                allList.append(code)
+
+                # 1 주권, 10 ETF,  17 ETN
+                secondCode = instCpCode.GetStockSectionKind(code)
+                if secondCode == 10 or secondCode == 12 :
+                    name = instCpCode.CodeToName(code)
+
+                    etf['code'].append(code)
+                    etf['name'].append(name)
+
+                    # print(name, " " , code )
+
+        print(etf)
+
+        etfList = pd.DataFrame(etf)
+        etf_name = "LIST_ETF_" + nowDate + ".csv"
+        etfList.to_csv(filePath + "/ETF/" + etf_name , mode='a', index=False,
+                                          encoding="euc-kr")
+
 
 
 
@@ -111,6 +245,48 @@ class DesinAPI :
     #  코스닥 = 코스닥  2번     1349 개
     #  K-OTC 중소/중견  3번     137 개
     #  KONEX           5번     150 개
+
+
+    # 시장구분에 따른 (코스피,코스닥) 종목리스트 얻기.
+    # 노터치.
+    def GetCodeList(self, sort):
+        instCpCode = win32com.client.Dispatch("CpUtil.CpCodeMgr")
+        codeList = instCpCode.GetStockListbyMarket(sort)
+        print(len(codeList))
+        return codeList
+
+    def GetMarketCode(self) :
+        instCpCode = win32com.client.Dispatch("CpUtil.CpCodeMgr")
+        chart = win32com.client.Dispatch("CpSysDib.StockChart")
+
+        # 1 - 거래소주식 ( 코스피 ), 2 - 코스닥주식 , 3 - 중소기업(상장) , 5 - KONEX
+        # print(instCpCode.GetIndustryList)
+        kospi = {'code':[], 'name':[]}
+        allList = []
+        for i in range(0,6) :
+
+            self.codeList = instCpCode.GetStockListbyMarket(i)
+
+
+            for code in self.codeList :
+                allList.append(code)
+
+
+
+                # 1 주권, 10 ETF,  17 ETN
+                secondCode = instCpCode.GetStockSectionKind(code)
+                if secondCode == 6 or secondCode == 2 :
+                    name = instCpCode.CodeToName(code)
+
+                    kospi['code'].append(code)
+                    kospi['name'].append(name)
+
+
+                    # print(name, " " , code )
+
+        print(kospi)
+
+
 
 
 
@@ -280,7 +456,7 @@ class DesinAPI :
 
 
         self.df = pd.DataFrame(self.dict).sort_index(ascending=False).reset_index(drop=True)
-        print(self.df)
+        # print(self.df)
         # self.df.to_csv(codeName + "미포함.csv", mode='a', index=False,
         #                encoding="euc-kr")
         # print(self.df)
@@ -359,7 +535,7 @@ class DesinAPI :
 
 
         self.df = pd.DataFrame(self.dict).sort_index(ascending=False).reset_index(drop=True)
-        print(self.df)
+        # print(self.df)
         # self.df.to_csv(codeName + "미포함.csv", mode='a', index=False,
         #                encoding="euc-kr")
         # print(self.df)
@@ -446,11 +622,6 @@ class DesinAPI :
 
         self.df = pd.DataFrame(self.dict).sort_index(ascending=False)
 
-        # print(self.df.sort_index(ascending=False))
-
-        # self.df.to_csv(codeName + "장전후미포함.csv", mode='w', index=False,
-        #                encoding="euc-kr")
-        # print(self.df)
 
         self._wait()
 
@@ -528,6 +699,7 @@ class DesinAPI :
         # print(self.df)
 
         self._wait()
+
 
 
 
