@@ -273,15 +273,11 @@ class Sample :
 
                     # print(name, " " , code )
 
-        print("-" * 50)
-        print("\n" * 3)
-        print("ETF" )
         etfList = pd.DataFrame(etf)
         print(etfList)
         etf_name = "LIST_ETF_" + nowDate + ".csv"
         # etfList.to_csv("C:/Users/Administrator/PycharmProjects/PracticeDesinApi/지수리스트" + "/ETF/" + etf_name, mode='a', index=False,
         #                encoding="euc-kr")
-
 
 
 
@@ -297,6 +293,7 @@ if __name__ == "__main__" :
     print("\n"*3)
     sample.GetMinuteOrTickData()
     sample.UpdateIndexList()
+
 
 
 
