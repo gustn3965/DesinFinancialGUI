@@ -527,10 +527,10 @@ class MyWindow(QMainWindow, form_class) :
 
 
 ####  10/17 코스피 전종목, 코스닥 전종목, KOSPI 지수, KOSDAQ 지수, 그리고 일부 ETF 종목 틱봉
-        kosdaq1Data = pd.read_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/새 폴더/KOSDAQ1/LIST_KOSDAQ_191017.csv", index_col=False, encoding="euc-kr")
-        kosdaq2Data = pd.read_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/새 폴더/KOSDAQ2/LIST_KOSDAQ2_191017.csv", index_col=False, encoding="euc-kr")
+        kosdaq1Data = pd.read_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/list/KOSDAQ1/LIST_KOSDAQ_191017.csv", index_col=False, encoding="euc-kr")
+        kosdaq2Data = pd.read_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/list/KOSDAQ2/LIST_KOSDAQ2_191017.csv", index_col=False, encoding="euc-kr")
         kospiData = pd.read_csv(
-            "C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/새 폴더/KOSPI/LIST_KOSPI_191017.csv",
+            "C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/list/KOSPI/LIST_KOSPI_191017.csv",
             index_col=False, encoding="euc-kr")
 
         kospiData['code'][0] = "001"
@@ -555,50 +555,96 @@ class MyWindow(QMainWindow, form_class) :
         # print(kosdaqList[-1])
         # print(kosdaqList[1356])
         # print(kosdaqList[1357])
-        for stock in kosdaqList[1356 : -1] :
-            self.conn.GetMinuteOrTickData(stock, 200000,1, self.progressBar, 'T')
-            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/Tick/kosdaq/"+ stock + ".csv", mode='a', index=False,
+        # for stock in kosdaqList[1356 : -1] :
+        #     self.conn.GetMinuteOrTickData(stock, 200000,1, self.progressBar, 'T')
+        #     self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/Tick/kosdaq/"+ stock + ".csv", mode='a', index=False,
+        #                encoding="euc-kr")
+        #
+        #
+        # for stock in kospiStockList:
+        #     print(stock)
+        #     self.conn.GetMinuteOrTickData("U"+str(stock), 200000, 1, self.progressBar, 'T')
+        #     self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/Tick/kospiStock/U" + str(stock) + ".csv", mode='a', index=False, encoding="euc-kr")
+        # for stock in kosdaq1StockList :
+        #     self.conn.GetMinuteOrTickData("U"+stock, 200000,1, self.progressBar, 'T')
+        #     self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/Tick/kosdaqStock/U"+ stock + ".csv", mode='a', index=False,
+        #                encoding="euc-kr")
+        # for stock in kosdaq2StockList:
+        #     self.conn.GetMinuteOrTickData("U"+stock, 200000, 1, self.progressBar, 'T')
+        #     self.conn.df.to_csv(
+        #         "C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/Tick/kosdaqStock/U" + stock + ".csv",
+        #         mode='a', index=False,
+        #         encoding="euc-kr")
+        #
+        # for stock in etfList :
+        #     self.conn.GetMinuteOrTickData(stock, 200000,1, self.progressBar, 'T')
+        #     self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/Tick/etf/"+ stock + ".csv", mode='w', index=False,
+        #                encoding="euc-kr")
+
+
+
+
+#####################
+        # 10/21 KOSPI , KOSDAQ , KOSPI지수, KOSDAQ지수, ETF 1분봉 5분봉
+
+        count = 155
+        for stock in kospiList[155:-1] :
+            print("주식번호 : " ,stock)
+            print("횟수 : ", count , "/" , len(kospiList) )
+            self.conn.GetMinuteOrTickData(stock, 200000,5, self.progressBar, 'm')
+            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/kospi/"+ stock + ".csv", mode='w', index=False,
                        encoding="euc-kr")
+            count += 1
+
+        count = 0
+        for stock in kosdaqList :
+            print("주식번호 : ", stock)
+            print("횟수 : ", count , "/" , len(kosdaqList))
+            self.conn.GetMinuteOrTickData(stock, 200000,5, self.progressBar, 'm')
+            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/kosdaq/"+ stock + ".csv", mode='w', index=False,
+                       encoding="euc-kr")
+            count += 1
 
 
+        count = 0
         for stock in kospiStockList:
-            print(stock)
-            self.conn.GetMinuteOrTickData("U"+str(stock), 200000, 1, self.progressBar, 'T')
-            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/Tick/kospiStock/U" + str(stock) + ".csv", mode='a', index=False, encoding="euc-kr")
+            print("주식번호 : ", stock)
+            print("횟수 : ", count, "/" , len(kospiStockList))
+            self.conn.GetMinuteOrTickData("U"+str(stock), 200000, 5, self.progressBar, 'm')
+            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/kospiStock/U" + str(stock) + ".csv", mode='w', index=False, encoding="euc-kr")
+            count += 1
+        count = 0
         for stock in kosdaq1StockList :
-            self.conn.GetMinuteOrTickData("U"+stock, 200000,1, self.progressBar, 'T')
-            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/Tick/kosdaqStock/U"+ stock + ".csv", mode='a', index=False,
+            print("주식번호 : ", stock)
+            print("횟수 : ", count, "/" , len(kosdaq1StockList))
+            self.conn.GetMinuteOrTickData("U"+stock, 200000,5, self.progressBar, 'm')
+            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/kosdaqStock/U"+ stock + ".csv", mode='w', index=False,
                        encoding="euc-kr")
+            count += 1
+
+        count = 0
         for stock in kosdaq2StockList:
-            self.conn.GetMinuteOrTickData("U"+stock, 200000, 1, self.progressBar, 'T')
+            print("주식번호 : ", stock)
+            print("횟수 : ", count, "/" , len(kosdaq2StockList))
+            self.conn.GetMinuteOrTickData("U"+stock, 200000, 5, self.progressBar, 'm')
             self.conn.df.to_csv(
-                "C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/Tick/kosdaqStock/U" + stock + ".csv",
-                mode='a', index=False,
+                "C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/kosdaqStock/U" + stock + ".csv",
+                mode='w', index=False,
                 encoding="euc-kr")
+            count += 1
 
+        count  = 0
         for stock in etfList :
-            self.conn.GetMinuteOrTickData(stock, 200000,1, self.progressBar, 'T')
-            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/Tick/etf/"+ stock + ".csv", mode='w', index=False,
+            print("주식번호 : ", stock)
+            print("횟수 : ", count, "/" , len(etfList))
+            self.conn.GetMinuteOrTickData(stock, 200000,5, self.progressBar, 'm')
+            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/etf/"+ stock + ".csv", mode='w', index=False,
                        encoding="euc-kr")
+            count += 1
 
 
 
-
-
-
-
-        # print(data['code'][2])
-        # print("데이터 길이 : " ,len(data['code']))
-        # print("데이터 길이 : ", len(dataOver['code']))
-
-
-
-
-        # self.conn.getWorldData8312("000903", 200)
-
-
-
-#############        리스트중에 다운받은 데이터가있는지 확인,
+        #############        리스트중에 다운받은 데이터가있는지 확인,
         #                    다운받은 데이터중에 가장 최근 날짜를 가져옴.
         #                    그리고 현재날짜부터 가장 최근 날짜까지 데이터를 가져온다 .
         #

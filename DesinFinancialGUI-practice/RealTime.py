@@ -9,6 +9,7 @@ import datetime
 class CpStockCurEvent:
 
 
+
     def set_params(self, client, caller ):
         self.client = client
         self.caller = caller
