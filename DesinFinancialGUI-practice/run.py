@@ -1,7 +1,7 @@
 import sys , csv
 from PyQt5.QtWidgets import  *
 from PyQt5 import uic
-from PyQt5.QtGui import *
+# from PyQt5.QtGui import *
 import DesinAPI
 import pandas as pd
 import re
@@ -586,41 +586,48 @@ class MyWindow(QMainWindow, form_class) :
 
 #####################
         # 10/21 KOSPI , KOSDAQ , KOSPI지수, KOSDAQ지수, ETF 1분봉 5분봉
+        #
+        # count = 380
+        # for stock in kospiList[380:-1] :
+        #     print("주식번호 : " ,stock)
+        #     print("횟수 : ", count , "/" , len(kospiList) )
+        #     self.conn.GetMinuteOrTickData(stock, 200000,5, self.progressBar, 'm')
+        #     self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/kospi/"+ stock + ".csv", mode='w', index=False,
+        #                encoding="euc-kr")
+        #     count += 1
 
-        count = 155
-        for stock in kospiList[155:-1] :
-            print("주식번호 : " ,stock)
-            print("횟수 : ", count , "/" , len(kospiList) )
-            self.conn.GetMinuteOrTickData(stock, 200000,5, self.progressBar, 'm')
-            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/kospi/"+ stock + ".csv", mode='w', index=False,
-                       encoding="euc-kr")
-            count += 1
-
-        count = 0
-        for stock in kosdaqList :
-            print("주식번호 : ", stock)
-            print("횟수 : ", count , "/" , len(kosdaqList))
-            self.conn.GetMinuteOrTickData(stock, 200000,5, self.progressBar, 'm')
-            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/kosdaq/"+ stock + ".csv", mode='w', index=False,
-                       encoding="euc-kr")
-            count += 1
+        # count = 1050
+        # for stock in kosdaqList[1050:-1] :
+        #     print("주식번호 : ", stock)
+        #     print("횟수 : ", count , "/" , len(kosdaqList))
+        #     self.conn.GetMinuteOrTickData(stock, 200000,5, self.progressBar, 'm')
+        #     self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/kosdaq/"+ stock + ".csv", mode='w', index=False,
+        #                encoding="euc-kr")
+        #     count += 1
 
 
-        count = 0
-        for stock in kospiStockList:
-            print("주식번호 : ", stock)
-            print("횟수 : ", count, "/" , len(kospiStockList))
-            self.conn.GetMinuteOrTickData("U"+str(stock), 200000, 5, self.progressBar, 'm')
-            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/kospiStock/U" + str(stock) + ".csv", mode='w', index=False, encoding="euc-kr")
-            count += 1
-        count = 0
-        for stock in kosdaq1StockList :
-            print("주식번호 : ", stock)
-            print("횟수 : ", count, "/" , len(kosdaq1StockList))
-            self.conn.GetMinuteOrTickData("U"+stock, 200000,5, self.progressBar, 'm')
-            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/kosdaqStock/U"+ stock + ".csv", mode='w', index=False,
-                       encoding="euc-kr")
-            count += 1
+        # count = 0
+        # for stock in kospiStockList:
+        #     print("주식번호 : ", stock)
+        #     print("횟수 : ", count, "/" , len(kospiStockList))
+        #     self.conn.GetMinuteOrTickData("U"+str(stock), 200000, 5, self.progressBar, 'm')
+        #     self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/kospiStock/U" + str(stock) + ".csv", mode='w', index=False, encoding="euc-kr")
+        #     count += 1
+        # count = 58
+        # for stock in kosdaq1StockList[58:] :
+        #     print("주식번호 : ", stock)
+        #     print("횟수 : ", count, "/" , len(kosdaq1StockList))
+        #     self.conn.GetMinuteOrTickData("U"+stock, 200000,5, self.progressBar, 'm')
+        #     self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/kosdaqStock/U"+ stock + ".csv", mode='w', index=False,
+        #                encoding="euc-kr")
+        #     count += 1
+
+
+
+
+#### 코스닥지수업종은 받아오지 못한다.???  10/23
+#### http://money2.creontrade.com/e5/mboard/ptype_basic/Basic_018/DW_Basic_List_Page.aspx?boardseq=60&m=9505&p=8829&v=8637
+        ### 질문 올렸음.
 
         count = 0
         for stock in kosdaq2StockList:
@@ -633,14 +640,14 @@ class MyWindow(QMainWindow, form_class) :
                 encoding="euc-kr")
             count += 1
 
-        count  = 0
-        for stock in etfList :
-            print("주식번호 : ", stock)
-            print("횟수 : ", count, "/" , len(etfList))
-            self.conn.GetMinuteOrTickData(stock, 200000,5, self.progressBar, 'm')
-            self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/etf/"+ stock + ".csv", mode='w', index=False,
-                       encoding="euc-kr")
-            count += 1
+        # count  = 0
+        # for stock in etfList :
+        #     print("주식번호 : ", stock)
+        #     print("횟수 : ", count, "/" , len(etfList))
+        #     self.conn.GetMinuteOrTickData(stock, 200000,5, self.progressBar, 'm')
+        #     self.conn.df.to_csv("C:/Users/HyunSu/Downloads/DesinFinancialGUI-practice/DesinFinancialGUI-practice/5minute/etf/"+ stock + ".csv", mode='w', index=False,
+        #                encoding="euc-kr")
+        #     count += 1
 
 
 

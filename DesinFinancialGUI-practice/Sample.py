@@ -289,12 +289,14 @@ if __name__ == "__main__" :
 
 
     sample = Sample()
-    # sample.GetDayData()
-    print("-"*50)
-    print("\n"*3)
-    sample.GetMinuteOrTickData()
+    sample.GetDayData()
+    # print("-"*50)
+    # print("\n"*3)
+    # sample.GetMinuteOrTickData()
   #   sample.UpdateIndexList()
 
-
+    # for i in range(0,20000000) :
+    #     print(i)
+    #
 
 
