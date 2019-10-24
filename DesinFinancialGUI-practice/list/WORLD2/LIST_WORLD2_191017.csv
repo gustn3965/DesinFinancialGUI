@@ -1,0 +1,10176 @@
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
+code,name
+.DJINET,다우존스 인터넷
+.DJT,다우존스 운송지수
+.DJU,다우존스 유틸리티
+BANK,나스닥 은행
+BIX,S&P 은행 지수
+BKX,필라델피아 은행 지수
+BTK,아멕스 생명공학지수
+CEX,S&P 화학
+CH#000004,공업지수
+CH#000005,상업지수
+CH#000006,부동산지수
+CH#000007,공용지수
+CH#000008,상해대기업지수
+CH#000010,상해180
+CH#000011,기금지수
+CH#000012,국채지수
+CH#000013,기업채권지수
+CH#000015,손익지수
+CH#000016,상해50지수
+CH#000017,신상해종합지수
+CH#000300,CSI 300
+CZ#399001,심천성분지수
+CZ#399002,심천A서브인덱스
+CZ#399003,심천 B서브인덱스
+CZ#399004,심천 100지수
+CZ#399101,심천 중소기업 지수
+CZ#399300,CSI 300
+DDX,아멕스 디스크드라이브지수
+DFI,아멕스 방위산업
+DJC,다우존스 UBS 상품지수
+DJGT,GLOBAL TITANS INDEX(USD)
+DJR,다우존스 부동산신탁
+DJTATO,World-자동차
+DJTBAK,World-은행
+DJTBAS,World-기초산업
+DJTCGS,World-여행레저
+DJTCHE,World-화학제품
+DJTCNS,World-건설
+DJTENG,World-석유가스
+DJTFOB,World-음식료
+DJTFVS,World-금융
+DJTHCA,TITANS HEALTHCARE INDEX
+DJTIGS,World-제조업
+DJTINN,World-보험
+DJTMDI,World-미디어
+DJTNCG,World-비순환상품서비스
+DJTRET,World-소매
+DJTTEL,World-통신
+DJTTHE,World-테크놀러지
+DJUSAP,다우존스 자동차제조
+DJUSAT,다우존스 자동차부품
+DJUSAV,다우존스 광고미디어
+DJUSBC,다우존스 방송
+DJUSCA,다우존스 카지노
+DJUSCH,다우존스 화학
+DJUSCN,다우존스 건설
+DJUSDB,다우존스 주류
+DJUSEC,다우존스 전자부품
+DJUSFB,다우존스 음식료
+DJUSFC,다우존스 유선통신
+DJUSHR,다우존스 중장비
+DJUSLG,다우존스 호텔숙박
+DJUSMT,다우존스 해상운송
+DJUSNF,다우존스 비철금속
+DJUSPB,다우존스 출판
+DJUSSB,다우존스 증권브로커지수
+DJUSST,다우존스 철강
+DJUSTK,다우존스 육상운송
+DJUSTR,다우존스 타이어
+DJUSWC,다우존스 무선통신
+DRG,아멕스 제약 지수
+DS#SGECAS,S&P GSCI Agriculture Enhanced 지수
+DS#SPFX500,S&P Futures 지수
+DS#SPGCIS,S&P GSCI Industrial Metals Select 지수
+DS#SPGSCEL,S&P GSCI E27 WTI Enhanced 지수
+DS#SPGSCL,S&P GSCI WTI 지수
+DS#SPGSCO,S&P GSCI Physical Copper 지수
+DS#SPGSGC,S&P GSCI Gold 지수
+DS#SPGSHG,S&P GSCI North American Copper 지수
+DS#SPGSPM,S&P GSCI Precious Metals 지수
+DS#SPGSSI,S&P GSCI Silver 지수
+DS#SPGSSO,S&P GSCI Soybeans 지수
+E1DOW,DJ Europe
+E2DOW,DJ Europe (ex UK)
+ECM,다우존스 전자상거래
+EDNH,E-Mini S&P 500                          
+ENXH,E-Mini Nasdaq 100                       
+FVX,CBOE 5년만기 미국채 수익률지수
+HCX,S&P 헬스케어지수
+HK#HSCCI,항셍 차이나대기업
+HK#HSCI,항셍 종합
+HK#HSIC,항셍 상공업
+HK#HSIF,항셍 금융
+HK#HSIP,항셍 자산
+HK#HSIU,항셍 유틸리티
+HUI,아멕스 금광업체지수
+HWI,아멕스컴퓨터/하드웨어
+INDS,나스닥 공업지수
+INSR,나스닥 보험
+IRX,CBOE 단기금리지수
+IUX,S&P 보험지수
+IXCO,나스닥 컴퓨터
+IXF,나스닥 금융100지수
+IXTC,나스닥 정보통신
+JP#AT,일본 항공운수업
+JP#CAF,일본 화학
+JP#COM,일본 정보통신
+JP#CON,일본 건설업
+JP#CORE30,TOPIX CORE 30
+JP#EPG,일본 전기가스업
+JP#FAF,일본 수산농림업
+JP#FD,일본 식료품
+JP#GAC,일본 유리토석제품
+JP#IAS,일본 철강업
+JP#INS,일본 보험업
+JP#LAR,일본 대형
+JP#LARGE70,TOPIX 대형 70
+JP#LT,일본 육상운송업
+JP#MC,일본 기계
+JP#MED,일본 중형
+JP#MID400,TOPIX 중형 400
+JP#MIN,일본 광업
+JP#MOS,TSE MOTHERS INDEX
+JP#MP,일본 금속제품
+JP#MT,일본 해운업
+JP#NM,일본 비철금속
+JP#OAC,일본 석유석탄제품
+JP#OFB,일본 그외금융업
+JP#OP,일본 기타 제조업 제품
+JP#PAP,일본 펄프/종이
+JP#PHR,일본 의약품
+JP#PI,일본 정밀기기
+JP#RBP,일본 고무제품
+JP#RE,일본 부동산업
+JP#REIT,일본 TSE 부동산 지수
+JP#RT,일본 소매업
+JP#SEC,일본 증권업
+JP#SMALL,TOPIX 소형
+JP#SML,일본 소형
+JP#SVS,일본 서비스업
+JP#TOPIXB,일본 은행업
+JP#TOPIXE,일본 제조업/전기기기
+JP#TOPIXT,일본 수송용기기
+JP#TPX100,TOPIX 100
+JP#TPX1000,TOPIX 1000
+JP#TPX500,TOPIX 500
+JP#TSE2S,일본 TSE SECOND SECTION ISSUES
+JP#TXA,일본 섬유제품
+JP#WHT,일본 창고운수관련업
+JP#WT,일본 도매업
+JPN,아멕스 일본지수
+MSH,모건스탠리 첨단기술 35지수
+MUT,다우존스 10지수
+MXY,아멕스 멕시코지수
+NBI,나스닥 생명공학
+NDX,나스닥 100
+NWX,아멕스 네트워킹지수
+NXH1,S&P 500 지수선물
+NYA,NYSE 종합지수
+NYK,NYSE 금융
+OEX,S&P 100지수
+OFIN,나스닥 OTC Index - 기타금융
+OSX,필라델 원유 서비스 지수
+RLX,S&P 소매업 지수
+RTH,메릴린치 소매 HOLDRS
+SOX,필라델피아 반도체지수
+SPFR,S&P 500 지수선물
+TNX,CBOE 10년만기 국채수익률지수
+TOB,아멕스 담배지수
+TRAN,나스닥 운송
+TW#AUTNEW,대만 자동차
+TW#CEC,대만 시멘트/자기
+TW#CEMNEW,대만 new 시멘트
+TW#CHENEW,대만 new 화학
+TW#CONNEW,대만 new 건설
+TW#EACNEW,대만 new 전기제품/전선
+TW#ELE,대만전기
+TW#ELMNEW,대만 new 전기/기계
+TW#ELNNEW,대만전자
+TW#FINNEW,대만 new 금융
+TW#FOONEW,대만 new 식품
+TW#GLCNEW,대만 new 유리/자기
+TW#NEL,대만 비전자
+TW#NFI,대만비금융
+TW#NFNEW,대만비금융/비전자
+TW#OTHNEW,대만 new 기타
+TW#PAPNEW,대만 new 제지
+TW#PLANEW,대만 new 플라스틱
+TW#PLC,대만 플라스틱/화학
+TW#RUBNEW,대만 new 고무
+TW#STINEW,대만 new 철강
+TW#TEXNEW,대만 new 직물
+TW#TOUNEW,대만 new 관광
+TW#TRANEW,대만 new 운송
+TW#WHRNEW,대만 new 도소매
+TYX,CBOE 30년만기 국채수익률지수
+UTY,필라델- 유틸리티 지수
+XAL,아멕스 항공지수
+XAU,필라델- 금/은 지수
+XBD,아멕스 증권/브로커
+XCI,아멕스 컴퓨터기술지수
+XII,아멕스 기관투자자지수
+XLB,아멕스 기본산업 SPDR
+XLF,아멕스 금융산업 SPDR
+XLU,아멕스 유틸리티 SPDR
+XLV,아멕스 헬스케어 SPDR
+XLY,아멕스 임의소비재 SPDR
+XMI,아멕스 주요시장 지수
+XNG,아멕스 천연가스 지수
+XOI,아멕스 원유
+XTC,아멕스 북미통신 지수
